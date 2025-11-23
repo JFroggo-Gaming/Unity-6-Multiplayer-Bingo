@@ -2,6 +2,8 @@
 
 A local multiplayer Bingo game built with Unity 6 and Mirror Networking. Players can host or join games on the same local network and compete to complete Bingo patterns.
 
+> **Note:** This is a 10-hour fun project created as a prototype to experiment with Unity 6 and Mirror Networking. The code is simple and well-documented, but there are many areas that could be improved. Feel free to use it as a learning resource or starting point for your own multiplayer projects!
+
 ## About
 
 This project implements a networked Bingo game using Unity 6 and the Mirror networking framework. The game features a lobby system, customizable Bingo patterns, and real-time multiplayer gameplay with up to 6 players.
@@ -47,7 +49,8 @@ This project implements a networked Bingo game using Unity 6 and the Mirror netw
 1. **Hosting a Game:**
    - One player clicks "Host" to start a server
    - The host will automatically enter the lobby
-   - Only the host can start the game from the lobby
+   - The host selects the number of players (2-6)
+   - Once all players have joined, the host clicks "Start Game"
 
 2. **Joining a Game:**
    - Other players click "Client"
@@ -55,9 +58,8 @@ This project implements a networked Bingo game using Unity 6 and the Mirror netw
    - Click "Connect" to join the lobby
 
 3. **In the Lobby:**
-   - Players can see all connected players with their avatars
-   - Players can choose the number of players (2-6)
-   - Only the host can click "Start Game" to begin
+   - All connected players are visible in the lobby
+   - Each player is assigned a random avatar automatically
 
 4. **During the Game:**
    - Numbers are drawn automatically at regular intervals
@@ -218,11 +220,3 @@ This project uses Git LFS for large binary files:
 ## Contributing
 
 Contributions are welcome! Please feel free to submit pull requests or open issues.
-
-## License
-
-[Specify your license here]
-
-## Contact
-
-[Your contact information or project links]
