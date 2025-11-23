@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8422286679322618930
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6240563579820235011}
+  - component: {fileID: 8556532164680150194}
+  - component: {fileID: 6418182352406485048}
+  m_Layer: 0
+  m_Name: Player
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6240563579820235011
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8422286679322618930}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 276.78998, y: 441.66562, z: -2.1293852}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8556532164680150194
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8422286679322618930}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b91ecbcc199f4492b9a91e820070131, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneId: 0
+  _assetId: 3805883130
+  serverOnly: 0
+  visibility: 0
+  hasSpawned: 0
+--- !u!114 &6418182352406485048
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8422286679322618930}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb5f3ff47bf74f54abeea4c22fd5c7ad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  syncDirection: 0
+  syncMode: 0
+  syncInterval: 0
+  visualPrefabs:
+  - {fileID: 553556862368560936, guid: c08132619eb226c49bd954664af60516, type: 3}
+  - {fileID: 553556862368560936, guid: a8d8b59aac6cafc45817bd9a5780a4db, type: 3}
+  - {fileID: 553556862368560936, guid: ca449a5ee98811f4582e2720e5f545e5, type: 3}
+  - {fileID: 553556862368560936, guid: 4cb35b0b00a025f4c99997739ca40645, type: 3}
+  - {fileID: 553556862368560936, guid: 190dc56292f5a0d499d130e605e66e66, type: 3}
+  - {fileID: 553556862368560936, guid: 1171528755ddadb439b4aaafcaedff97, type: 3}
+  prefabIndex: -1
+  playerIndex: -1
+  playerName: Player
+  isReady: 0

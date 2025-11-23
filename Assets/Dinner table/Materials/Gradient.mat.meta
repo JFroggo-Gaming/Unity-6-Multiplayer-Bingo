@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 75ce501b0b93b874190acb7112d0b73a
+timeCreated: 1454313967
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55180
+  packageName: Lowpoly Dinner Table
+  packageVersion: 2.0
+  assetPath: Assets/Dinner table/Materials/Gradient.mat
+  uploadId: 698401

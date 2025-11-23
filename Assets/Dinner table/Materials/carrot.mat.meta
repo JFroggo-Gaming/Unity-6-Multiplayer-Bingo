@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 22dec637081447c4aabb0f13d837d1b2
+timeCreated: 1454333216
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55180
+  packageName: Lowpoly Dinner Table
+  packageVersion: 2.0
+  assetPath: Assets/Dinner table/Materials/carrot.mat
+  uploadId: 698401

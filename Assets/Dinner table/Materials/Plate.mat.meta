@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: afd81ac022ad26b43837c20d95f05b17
+timeCreated: 1454134202
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55180
+  packageName: Lowpoly Dinner Table
+  packageVersion: 2.0
+  assetPath: Assets/Dinner table/Materials/Plate.mat
+  uploadId: 698401

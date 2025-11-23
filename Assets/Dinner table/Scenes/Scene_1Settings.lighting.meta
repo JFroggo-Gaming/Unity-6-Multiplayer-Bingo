@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b9e720f71e3b5eb478fcfff8f45768ea
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55180
+  packageName: Lowpoly Dinner Table
+  packageVersion: 2.0
+  assetPath: Assets/Dinner table/Scenes/Scene_1Settings.lighting
+  uploadId: 698401
