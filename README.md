@@ -1,5 +1,5 @@
 # Unity 6 Multiplayer Bingo
-
+# Youtube video: https://youtu.be/0BaeAc4VYqA?si=qlTmLzlGiB2pU-gu
 A local multiplayer Bingo game built with Unity 6 and Mirror Networking. Players can host or join games on the same local network and compete to complete Bingo patterns.
 
 > **Note:** This is a 10-hour fun project created as a prototype to experiment with Unity 6 and Mirror Networking. The code is simple and well-documented, but there are many areas that could be improved. Feel free to use it as a learning resource or starting point for your own multiplayer projects!
